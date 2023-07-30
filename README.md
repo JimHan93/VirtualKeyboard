@@ -1,4 +1,5 @@
-MyVirtualKeyboard
+#MyVirtualKeyboard
+
 MyVirtualKeyboard is a Java Swing application that simulates a virtual keyboard. As users type on their physical keyboard, the corresponding keys on the virtual keyboard highlight.
 
 Usage
